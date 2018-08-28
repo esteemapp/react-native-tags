@@ -15,7 +15,7 @@ const Tag = ({ label, onPress, tagContainerStyle, tagTextStyle, readonly }) => {
     )
   } else {
     return (
-      <TouchableOpacity style={[styles.tag, tagContainerStyle]} onPress={onPress}>
+      <TouchableOpacity style={[styles.tag, tagContainerStyle]} onLongPress={onPress}>
         {tagText}
       </TouchableOpacity>
     )
