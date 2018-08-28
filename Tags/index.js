@@ -107,6 +107,7 @@ class Tags extends React.Component {
                 style={[styles.textInput, inputStyle]}
                 onChangeText={this.onChangeText}
                 underlineColorAndroid="transparent"
+                autoCapitalize="none"
               />
             </View>
           )}
