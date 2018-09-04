@@ -1,6 +1,6 @@
 {
-  "name": "react-native-tags",
-  "version": "1.3.0",
+  "name": "@esteemapp/react-native-tags",
+  "version": "1.3.1",
   "description": "Tag input component for React Native",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:peterp/react-native-tags.git"
+    "url": "git@github.com:esteemapp/react-native-tags.git"
   },
-  "author": "Peter Pistorius <peter.pistorius@gmail.com> (http://github.com/peterp/)",
+  "author": "eSteem <info@esteem.app> (http://github.com/esteemapp/)",
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
